@@ -58,7 +58,7 @@ body{
 .about_cat{
     display: flex;
     gap: 20px;
-    justify-content: center;background-color: ;
+    justify-content: center;
     color: black;
     background-color: #F3E3D0;
     border-radius: 50px;
